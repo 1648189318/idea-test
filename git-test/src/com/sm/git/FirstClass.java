@@ -14,6 +14,7 @@ public class FirstClass {
         System.out.println("hello git project");
         System.out.println("hello git project");
         System.out.println("hello git project");
+        System.out.println("这是clone下来的");
 
     }
 }
